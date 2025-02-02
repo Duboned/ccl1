@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LEVER-ACTION ALIEN</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <canvas id="gameCanvas"></canvas> <!-- Main game canvas -->
+
+  <!-- Start Screen -->
+  <div id="startScreen" class="screen">
+    <h1 class="start-screen-title">LEVER-ACTION ALIEN</h1>
+    <p class="start-screen-instruction">Press <span class="key">Enter</span> or <span class="key">Space</span> to Start</p>
+    <h3> WSAD MOVE, MOUSE1 or SPACE SHOOT, M MUTE</h3>
+  </div>
+
+  <!-- Game Over Screen -->
+  <div id="gameOverScreen" class="screen">
+    <h1 class="game-over-title">💀 Game Over 💀</h1>
+    <p class="game-over-instruction">Press <span class="key">Enter</span> or <span class="key">Space</span> to Restart</p>
+  </div>
+
+  <!-- Win Screen -->
+  <div id="winScreen" class="screen">
+    <h1 class="win-screen-title">🏆 Victory! 🏆</h1>
+    <p class="win-screen-subtitle">Thank you for playing LEVER-ACTION ALIEN.</p>
+    <p class="win-screen-instruction">Press <span class="key">Enter</span> or <span class="key">Space</span> to Play Again</p>
+  </div>
+
+  <script type="module" src="./GAME/main.js"></script> <!-- Main JavaScript file -->
+</body>
+</html>
