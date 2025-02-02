@@ -1,6 +1,6 @@
 # 🎮 **LEVER-ACTION ALIEN**
 
-Lever-Action Alien is a retro-inspired top-down shooter inspired by cowboys vs aliens theme where you navigate pixelated environments, dodge enemy attacks, and blast your way through waves of quirky aliens. Take control of cowboy outlaw and defeat different kinds of extraterestrial enemies.
+Lever-Action Alien is a retro-inspired top-down shooter in cowboys vs aliens theme where you navigate pixelated environments, dodge enemy attacks, and blast your way through waves of quirky aliens. Take control of cowboy outlaw and defeat different kinds of extraterestrial enemies to save the frontier.
 ---
 
 ## 🌐 **Play the Game**
