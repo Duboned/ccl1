@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 **Play the Game**
-[Click here to play the game!]( https://duboned.github.io/ccl1/)
+[Click here to play the game!](https://duboned.github.io/ccl1/)
 
 ---
 
