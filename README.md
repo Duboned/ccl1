@@ -20,7 +20,7 @@ Lever-Action Alien is a retro-inspired top-down shooter in cowboys vs aliens the
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Menu UI Screenshot" width="600">
+  <img src="MainScreen.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Menu and user interface.*</p>
 </div>
 
