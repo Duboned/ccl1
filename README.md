@@ -1,9 +1,6 @@
-# 🎮 **Game Title** 
+# 🎮 **LEVER-ACTION ALIEN**
 
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
-> 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
-
+Lever-Action Alien is a retro-inspired top-down shooter inspired by cowboys vs aliens theme where you navigate pixelated environments, dodge enemy attacks, and blast your way through waves of quirky aliens. Take control of cowboy outlaw and defeat different kinds of extraterestrial enemies.
 ---
 
 ## 🌐 **Play the Game**
